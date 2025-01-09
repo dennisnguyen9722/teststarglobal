@@ -1,0 +1,880 @@
+# Translation of Plugins - Slider by Soliloquy &#8211; Responsive Image Slider for WordPress - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Slider by Soliloquy &#8211; Responsive Image Slider for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-30 17:26:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Slider by Soliloquy &#8211; Responsive Image Slider for WordPress - Stable (latest release)\n"
+
+#. translators: %s: urls
+#: soliloquy-lite.php:464
+msgid "Please rate <strong>SoliloquyWP</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the Soliloquy team!"
+msgstr "Hãy đánh giá <strong>SoliloquyWP</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> trên <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> để giúp nhiều người biết đến plugin. Nhóm Soliloquy xin cảm ơn!"
+
+#: includes/global/common.php:116
+msgid "Off"
+msgstr "Tắt"
+
+#: includes/global/posttype.php:65
+msgid "Add New"
+msgstr "Tạo slider"
+
+#: includes/global/posttype.php:66
+msgid "Add New Soliloquy Slider"
+msgstr "Tạo slider"
+
+#: includes/global/common.php:124
+msgid "Assertive"
+msgstr "Assertive"
+
+#: includes/global/common.php:72
+msgid "Base"
+msgstr "Cơ bản"
+
+#: includes/global/common.php:77
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: includes/global/posttype.php:67
+msgid "Edit Soliloquy Slider"
+msgstr "Sửa slider"
+
+#: includes/global/common.php:97
+msgid "Fade"
+msgstr "Mờ dần"
+
+#: includes/global/posttype.php:68
+msgid "New Soliloquy Slider"
+msgstr "Tạo slider"
+
+#: includes/global/posttype.php:72
+msgid "No Soliloquy sliders found in trash."
+msgstr "Không thấy Soliloquy trong thùng rác."
+
+#: includes/global/posttype.php:71
+msgid "No Soliloquy sliders found."
+msgstr "Không có Soliloquy slider."
+
+#: includes/global/common.php:364
+msgid "No file could be found for the image URL specified."
+msgstr "Không tìm thấy tập tin ở liên kết."
+
+#: includes/global/common.php:343
+msgid "No image URL specified for cropping."
+msgstr "Chưa chỉ định liên kết ảnh để cắt."
+
+#: includes/global/common.php:240
+msgid "No image editor could be selected. Please verify with your webhost that you have either the GD or Imagick image library compiled with your PHP install on your server."
+msgstr "Chưa chọn trình sửa ảnh. Hãy liên hệ hosting để cài đặt GD hoặc Imagick."
+
+#: includes/global/common.php:120
+msgid "Polite"
+msgstr "Polite"
+
+#: includes/global/posttype.php:70
+msgid "Search Soliloquy Sliders"
+msgstr "Tìm kiếm Soliloquy slider"
+
+#: includes/global/posttype.php:63
+msgid "Soliloquy Sliders"
+msgstr "Soliloquy slider"
+
+#. translators: %s: url
+#: soliloquy-lite.php:530
+msgid "Sorry, but your version of WordPress does not meet Soliloquy Lite's required version of <strong>4.0.0</strong> to run properly. The plugin has been deactivated. <a href=\"%s\">Click here to return to the Dashboard</a>."
+msgstr "Rất tiếc, phiên bản WordPress hiện tại không đúng phiên bản yêu cầu của Soliloquy Lite <strong>4.0.0</strong>. Plugin đã bị ngừng kích hoạt. <a href=\"%s\">Bấm để quay về Bảng tin</a>."
+
+#: includes/global/common.php:372 includes/global/common.php:384
+msgid "The dimensions of the original image could not be retrieved for cropping."
+msgstr "Không thể nhận diện kích thước ảnh gốc để cắt."
+
+#: includes/global/posttype.php:69
+msgid "View Soliloquy Slider"
+msgstr "Xem Soliloquy slider"
+
+#: includes/admin/review.php:144
+msgid "Co-Founder of Soliloquy"
+msgstr "Đồng sáng lập của Soliloquy"
+
+#: includes/admin/review.php:143
+msgid "Hey, I noticed you created a slider with Soliloquy - that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation."
+msgstr "Này, tôi thấy bạn đã tạo slider với Soliloquy - điều đó thật tuyệt! Bạn có thể đánh giá plugin 5 sao trên WordPress để giúp chúng tôi có thêm động lực và để nhiều người biết đến nó không."
+
+#: includes/admin/review.php:148
+msgid "I already did"
+msgstr "Tôi làm rồi"
+
+#: includes/admin/review.php:147
+msgid "Nope, maybe later"
+msgstr "Nhắc tôi sau"
+
+#: includes/admin/review.php:146
+msgid "Ok, you deserve it"
+msgstr "Ok, bạn xứng đáng vậy"
+
+#: includes/admin/posttype.php:646
+msgid " slider(s) fixed successfully. This is a one time operation, and you don't need to do anything else."
+msgstr " đã sửa slider. Đây là hành động một lần, bạn không cần làm điều gì thêm."
+
+#. translators: %s: image count
+#: includes/admin/posttype.php:251
+msgid "%d Image"
+msgid_plural "%d Slides"
+msgstr[0] "%d ảnh"
+
+#. translators: %s: image count
+#: includes/admin/posttype.php:284
+msgid "%d Slide"
+msgid_plural "%d Slides"
+msgstr[0] "%d slide"
+
+#: includes/admin/addons.php:135 includes/admin/common.php:140
+#: includes/admin/welcome.php:91
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: includes/admin/addons.php:137 includes/admin/welcome.php:93
+msgid "Activating..."
+msgstr "Đang kích hoạt..."
+
+#: includes/admin/addons.php:78
+msgid "Addons"
+msgstr "Tiện ích"
+
+#: includes/admin/metaboxes.php:1067
+msgid "By upgrading to Soliloquy Pro, you can add pinterest sharing buttons to your slider images and Lightbox images. Why not check it out?"
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể thêm nút chia sẻ pinterest cho slider và lightbox."
+
+#: includes/admin/metaboxes.php:1044
+msgid "By upgrading to Soliloquy Pro, you can create a responsive carousel slider in WordPress for your images, photos, videos, and even galleries."
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể tạo responsive carousel slider cho hình ảnh, video, và cả gallery."
+
+#: includes/admin/metaboxes.php:1086
+msgid "By upgrading to Soliloquy Pro, you can easily schedule both sliders and individual slides to be displayed at specific time intervals (perfect for highlight time-sensitive content)."
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể đặt lịch đăng cho slider và ảnh từng slider để hiển thị vào các thời điểm cụ thể (rất phù hợp cho các nội dung thời sự)."
+
+#: includes/admin/metaboxes.php:1014
+msgid "By upgrading to Soliloquy Pro, you can get access to mobile-specific settings, including mobile image sizes, number of columns, mobile-specific lightbox options and so much more!"
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể truy cập các thiết lập riêng cho di động, bao gồm sửa kích thước ảnh di động, số lượng cột, lightbox cho di động và nhiều nữa!"
+
+#: includes/admin/metaboxes.php:991
+msgid "By upgrading to Soliloquy Pro, you can get access to numerous other features, including: a fully-integrated import/export module for your slider, custom CSS controls for each slider and so much more!"
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể truy cập hàng tá tính năng khác, bao gồm hỗ trợ nhập/xuất module, kiểm soát CSS cho từng slider và nhiều nữa!"
+
+#: includes/admin/metaboxes.php:911
+msgid "By upgrading to Soliloquy Pro, you can get access to numerous other gallery display features, including: custom image tagging and filtering, mobile specific image assets for blazing fast load times, dedicated and unique gallery URLs, custom gallery themes, gallery thumbnail support and so much more!"
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể truy cập hàng tá tính năng cho gallery, bao gồm: gắn thẻ và lọc ảnh, tối ưu ảnh để tăng tốc độ trên di động, hỗ trợ liên kết gallery, tùy chỉnh giao diện gallery, hỗ trợ ảnh gallery nhỏ và nhiều nữa!"
+
+#: includes/admin/posttype.php:259 includes/admin/posttype.php:274
+msgid "Copy to clipboard"
+msgstr "Sao chép"
+
+#: includes/admin/addons.php:139 includes/admin/welcome.php:95
+msgid "Deactivate"
+msgstr "Hủy kích hoạt"
+
+#: includes/admin/addons.php:141 includes/admin/welcome.php:97
+msgid "Deactivating..."
+msgstr "Đang hủy kích hoạt..."
+
+#: includes/admin/metaboxes.php:1107
+msgid "By upgrading to Soliloquy Pro, you can get access to numerous other lightbox features, including: custom lightbox titles, enable/disable lightbox controls (arrow, keyboard and mousehweel navigation), custom lightbox transition effects, native fullscreen support, gallery deeplinking, image protection, lightbox supersize effects, lightbox slideshows and so much more!"
+msgstr "Hãy nâng cấp lên Soliloquy Pro, bạn có thể truy cập hàng tá tính năng cho lightbox, bao gồm sửa tên lightbox, bật/tắt nút điều khiển lightbox (mũi tên, bàn phím hoặc điều hướng), sửa transition, hỗ trợ fullscreen, gallery deeplinking, bảo vệ hình ảnh và nhiều thứ nữa!"
+
+#: includes/admin/addons.php:142
+msgid "Inactive"
+msgstr "Ngừng kích hoạt"
+
+#: includes/admin/addons.php:143
+msgid "Install Addon"
+msgstr "Cài đặt tiện ích"
+
+#: includes/admin/addons.php:145 includes/admin/welcome.php:101
+msgid "Installing..."
+msgstr "Đang cài đặt..."
+
+#: includes/admin/ajax.php:251
+msgid "No video URL was defined"
+msgstr "Liên kết video không xác định"
+
+#. translators: %s: url
+#: includes/admin/common.php:278
+msgid "Please rate <strong>Soliloquy</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the Soliloquy team!"
+msgstr "Hãy đánh giá <strong>Soliloquy</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> trên <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> để nhiều người biết đến plugin. Lời cảm ơn từ Soliloquy Team!"
+
+#: includes/admin/addons.php:146 includes/admin/welcome.php:102
+msgid "Proceed"
+msgstr "Tiến hành"
+
+#: includes/admin/addons.php:77 includes/admin/addons.php:174
+msgid "Soliloquy Addons"
+msgstr "Tiện ích Soliloquy"
+
+#: includes/admin/addons.php:187
+msgid "Unlock More Addons"
+msgstr "Mở khóa tiện ích"
+
+#: includes/admin/addons.php:224
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay"
+
+#: includes/admin/addons.php:189
+msgid "Upgrade your Soliloquy account"
+msgstr "Nâng cấp tài khoản Soliloquy"
+
+#: includes/admin/addons.php:189
+msgid "Want even more addons?"
+msgstr "Bạn muốn nhiều tiện ích hơn?"
+
+#: includes/admin/metaboxes.php:1106
+msgid "Want even more fine tuned control over your lightbox display?"
+msgstr "Muốn kiểm soát nhiều thứ hơn của lightbox?"
+
+#: includes/admin/metaboxes.php:1128
+msgid "Want to add Thumbnail Navigation?"
+msgstr "Muốn thêm điều hướng bằng ảnh nhỏ?"
+
+#: includes/admin/metaboxes.php:1037
+msgid "Want to create a Responsive Carousel Slider?\n"
+msgstr "Muốn tạo Responsive Carousel Slider?\n"
+
+#: includes/admin/metaboxes.php:990 includes/admin/metaboxes.php:1013
+#: includes/admin/metaboxes.php:1066 includes/admin/metaboxes.php:1085
+msgid "Want to take your sliders further?"
+msgstr "Muốn nhiều tính năng nữa?"
+
+#: includes/admin/addons.php:189
+msgid "and unlock the following addons."
+msgstr "và mở khóa các tiện ích sau."
+
+#: includes/admin/addons.php:134 includes/admin/metaboxes.php:238
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: includes/admin/media-view.php:183 includes/admin/media-view.php:329
+msgid "Alt Text"
+msgstr "Thẻ Alt"
+
+#: includes/admin/metaboxes.php:215
+msgid "Are you sure you want to remove these slides from the slider?"
+msgstr "Bạn muốn xóa các slide này chứ?"
+
+#: includes/admin/media-view.php:238 includes/admin/media-view.php:376
+msgid "Attachment Page"
+msgstr "Trang đính kèm"
+
+#: includes/admin/media-view.php:307
+msgid "Bulk Edit"
+msgstr "Hành động"
+
+#: includes/admin/metaboxes.php:760
+msgid "By upgrading to Soliloquy Pro, you can get access to numerous other features, including: a fully featured slider widget, complete slider API, powerful slider documentation, full mobile and Retina support, dedicated customer support and so much more!"
+msgstr "Chỉ cần nâng cấp lên Soliloquy Pro, bạn có thể truy cập hàng tá tính năng khác, bao gồm widget slider, API slider, hướng dẫn sử dụng đầy đủ, hỗ trợ mobile và Retina, hỗ trợ trực tiếp và nhiều nữa!"
+
+#: includes/admin/media-view.php:203 includes/admin/media-view.php:343
+msgid "Caption"
+msgstr "Caption"
+
+#: includes/admin/metaboxes.php:582
+msgid "Carousel"
+msgstr "Carousel"
+
+#: includes/admin/media-view.php:131 includes/admin/metaboxes.php:227
+msgid "Choose Video Placeholder Image"
+msgstr "Chọn ảnh Video Placeholder"
+
+#: includes/admin/metaboxes.php:230
+msgid "Choose a Video Placeholder Image"
+msgstr "Chọn ảnh video placeholder"
+
+#: includes/admin/metaboxes.php:725
+msgid "Clear Selected"
+msgstr "Xóa các lựa chọn"
+
+#: includes/admin/metaboxes.php:382
+msgid "Click Here to Insert from Other Image Sources"
+msgstr "Bấm để chèn ảnh từ nguồn khác"
+
+#: includes/admin/metaboxes.php:761 includes/admin/metaboxes.php:912
+#: includes/admin/metaboxes.php:992 includes/admin/metaboxes.php:1016
+#: includes/admin/metaboxes.php:1046 includes/admin/metaboxes.php:1068
+#: includes/admin/metaboxes.php:1087 includes/admin/metaboxes.php:1108
+#: includes/admin/metaboxes.php:1132
+msgid "Click here to Upgrade"
+msgstr "Bấm để nâng cấp"
+
+#: includes/admin/partials/metabox-slider-type.php:80
+msgid "Click here to upgrade"
+msgstr "Bấm để nâng cấp"
+
+#: includes/admin/media-view.php:270 includes/admin/media-view.php:411
+msgid "Code"
+msgstr "Mã"
+
+#: includes/admin/metaboxes.php:237
+msgid "Collapse"
+msgstr "Thu gọn"
+
+#: includes/admin/metaboxes.php:485 includes/admin/metaboxes.php:489
+#: includes/admin/metaboxes.php:496 includes/admin/metaboxes.php:501
+msgid "Copy to Clipboard"
+msgstr "Sao chép"
+
+#: includes/admin/partials/metabox-slider-type.php:41
+msgid "Create Dynamic Sliders with Soliloquy"
+msgstr "Tạo Slider động với Soliloquy"
+
+#: includes/admin/metaboxes.php:708
+msgid "Create your slider by adding your media files above."
+msgstr "Tạo slider bằng cách thêm ảnh vào đây."
+
+#: includes/admin/metaboxes.php:715
+msgid "Currently in Your Slider"
+msgstr "Các slider đang có"
+
+#: includes/admin/metaboxes.php:732 includes/admin/metaboxes.php:753
+msgid "Delete selected files from slider"
+msgstr "Xóa tệp đã chọn từ slider"
+
+#: includes/admin/media-view.php:188 includes/admin/media-view.php:333
+msgid "Describes the image for search engines and screen readers. Important for SEO and accessibility."
+msgstr "Phần mô tả hình ảnh cho công cụ tìm kiếm và người khiếm thị. Rất quan trọng cho SEO."
+
+#: includes/admin/media-view.php:221 includes/admin/media-view.php:361
+msgid "Displayed over the slide image. Field accepts any valid HTML."
+msgstr "Hiển thị phía trên ảnh slide. Mục này chấp nhận HTML."
+
+#: includes/admin/metaboxes.php:239
+msgid "Draft"
+msgstr "Bản nháp"
+
+#: includes/admin/metaboxes.php:186
+msgid "Drag and Drop Files to Upload"
+msgstr "Kéo và thả tệp vào đây để tải lên"
+
+#: includes/admin/media-view.php:113
+msgid "Edit Item"
+msgstr "Sửa"
+
+#: includes/admin/metaboxes.php:733 includes/admin/metaboxes.php:754
+msgid "Edit Selected Slides"
+msgstr "Sửa slide đã chọn"
+
+#: includes/admin/media-view.php:242 includes/admin/media-view.php:381
+msgid "Enter a hyperlink to link this slide to another page."
+msgstr "Nhập liên kết để chuyển hướng slide qua trang khác."
+
+#: includes/admin/media-view.php:171
+msgid "Enter the title for your slide."
+msgstr "Nhập tên slide."
+
+#: includes/admin/metaboxes.php:226
+msgid "Enter your video placeholder image URL here (or leave blank to pull from video itself)..."
+msgstr "Điền liên kết ảnh video placeholder ở đây (hoặc để trống để video tự động tạo ảnh)..."
+
+#: includes/admin/metaboxes.php:236
+msgid "Expand"
+msgstr "Mở rộng"
+
+#: includes/admin/partials/metabox-slider-type.php:19
+msgid "External Slider"
+msgstr "Slider khác"
+
+#: includes/admin/partials/metabox-slider-type.php:50
+msgid "Featured Content"
+msgstr "Nội dung nổi bật"
+
+#: includes/admin/metaboxes.php:234
+msgid "Insert Placeholder"
+msgstr "Chèn Placeholder"
+
+#: includes/admin/metaboxes.php:235
+msgid "Insert Video"
+msgstr "Chèn video"
+
+#: includes/admin/partials/metabox-slider-type.php:61
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/admin/metaboxes.php:584
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/admin/media-view.php:237 includes/admin/media-view.php:375
+msgid "Media File"
+msgstr "Tệp media"
+
+#: includes/admin/metaboxes.php:580
+msgid "Mobile"
+msgstr "Di động"
+
+#: includes/admin/partials/metabox-slider-type.php:18
+msgid "Native Slider"
+msgstr "Slider mặc định"
+
+#: includes/admin/metaboxes.php:507
+msgid "Need Help?"
+msgstr "Cần giúp đỡ?"
+
+#: includes/admin/metaboxes.php:709
+msgid "Need some help?"
+msgstr "Cần giúp đỡ?"
+
+#: includes/admin/media-view.php:249 includes/admin/media-view.php:389
+msgid "Open URL in New Window?"
+msgstr "Mở liên kết trong cửa sổ mới?"
+
+#: includes/admin/media-view.php:250 includes/admin/media-view.php:391
+msgid "Opens your image links in a new browser window / tab."
+msgstr "Mở liên kết hình ảnh trong cửa sổ / tab trình duyệt mới."
+
+#: includes/admin/metaboxes.php:583
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/admin/media-view.php:132 includes/admin/metaboxes.php:228
+msgid "Remove Video Placeholder Image"
+msgstr "Xóa ảnh video Placholder"
+
+#: includes/admin/media-view.php:291 includes/admin/media-view.php:431
+msgid "Saved."
+msgstr "Đã lưu."
+
+#: includes/admin/metaboxes.php:585
+msgid "Schedule"
+msgstr "Đặt lịch"
+
+#: includes/admin/metaboxes.php:233 includes/admin/metaboxes.php:724
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: includes/admin/metaboxes.php:383
+msgid "Select Files from Other Sources"
+msgstr "Chọn tệp từ nguồn khác"
+
+#: includes/admin/metaboxes.php:185
+msgid "Select Files from Your Computer"
+msgstr "Chọn tệp từ máy tính"
+
+#: includes/admin/metaboxes.php:231
+msgid "Select Placeholder Image"
+msgstr "Chọn ảnh placeholder"
+
+#: includes/admin/metaboxes.php:232
+msgid "Selected"
+msgstr "Đã chọn"
+
+#: includes/admin/metaboxes.php:576 blocks/soliloquy/index.js:1
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/admin/partials/metabox-slider-type.php:78
+msgid "Soliloquy Pro allows you to build sliders from Instagram photos, images from your posts, and more."
+msgstr "Soliloquy Pro cho phép tạo slider từ ảnh Instagram, ảnh từ bài viết, và nhiều nữa."
+
+#: includes/admin/metaboxes.php:332
+msgid "Soliloquy Slider Code"
+msgstr "Soliloquy Slider Code"
+
+#. Author of the plugin
+#: soliloquy-lite.php
+msgid "Soliloquy Team"
+msgstr "Nhóm Soliloquy"
+
+#: includes/admin/metaboxes.php:581
+msgid "Thumbnails"
+msgstr "Hình ảnh"
+
+#: includes/admin/media-view.php:233 includes/admin/media-view.php:260
+#: includes/admin/media-view.php:371 includes/admin/media-view.php:380
+#: includes/admin/media-view.php:401
+msgid "URL"
+msgstr "Liên kết"
+
+#: includes/admin/metaboxes.php:225
+msgid "Video Slide Placeholder Image"
+msgstr "Ảnh video slide placeholder"
+
+#: includes/admin/metaboxes.php:910
+msgid "Want to do even more with your slider display?"
+msgstr "Muốn làm nhiều hơn với slider?"
+
+#: includes/admin/metaboxes.php:759
+msgid "Want to make your slider workflow even better?"
+msgstr "Bạn có muốn slider hoạt động tốt hơn không?"
+
+#: includes/admin/metaboxes.php:709
+msgid "Watch a video how to add media and create a slider"
+msgstr "Xem video hướng dẫn thêm ảnh và tạo slider"
+
+#: includes/admin/partials/metabox-slider-type.php:72
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/admin/metaboxes.php:483
+msgid "You can place this slider into your posts, pages, custom post types or widgets using the shortcode below:"
+msgstr "Bạn có thể chèn slider vòa bài viết, trang, custom post type hoặc widget sử dụng shortcode bên dưới:"
+
+#: includes/admin/metaboxes.php:494
+msgid "You can place this slider into your theme's template files by using the template tag below:"
+msgstr "Bạn có thể chèn slider vào giao diện bằng cách sử dụng thẻ bên dưới:"
+
+#: includes/admin/metaboxes.php:951
+msgid "<strong>Unique</strong> internal slider slug for identification and advanced slider queries."
+msgstr "<strong>Slider slug</strong> duy nhất để nhận diện và sử dụng cho các truy vấn."
+
+#: includes/admin/metaboxes.php:890
+msgid "ARIA Live Value"
+msgstr "Giá trị ARIA Live"
+
+#: includes/admin/metaboxes.php:901
+msgid "Accessibility: Defines the priority with which screen readers should treat updates to this slider."
+msgstr "Accessibility: Xác định mức độ ưu tiên để các trình đọc màn hình xử lí bản cập nhật của slider."
+
+#: includes/admin/metaboxes.php:968
+msgid "Adds custom CSS classes to this slider. Enter one class per line."
+msgstr "Thêm CSS Class cho slider. Một class một dòng."
+
+#: includes/admin/metaboxes.php:964
+msgid "Custom Slider Classes"
+msgstr "Slider CSS Class"
+
+#: includes/admin/posttype.php:204
+msgid "Date"
+msgstr "Ngày"
+
+#: includes/admin/metaboxes.php:973
+msgid "Enable RTL Support?"
+msgstr "Bật RTL?"
+
+#: includes/admin/metaboxes.php:980
+msgid "Enables or disables RTL support in Soliloquy for right-to-left languages."
+msgstr "Bật hoặc tắt RTL trong Soliliquy cho các ngôn ngữ phải qua trái."
+
+#: includes/admin/metaboxes.php:967
+msgid "Enter custom slider CSS classes here, one per line."
+msgstr "Điền Slider CSS Class ở đây, một class một dòng."
+
+#: includes/admin/metaboxes.php:940
+msgid "Internal slider title for identification in the admin."
+msgstr "Tên slider để nhận diện trong trang quản lý."
+
+#: includes/admin/posttype.php:203
+msgid "Last Modified"
+msgstr "Chỉnh sửa"
+
+#. translators: %s: schedule posting date
+#: includes/admin/posttype.php:549
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/admin/metaboxes.php:1306
+msgid "Modify Image Slide"
+msgstr "Sửa ảnh slide"
+
+#: includes/admin/metaboxes.php:1304
+msgid "Remove Image Slide from Slider?"
+msgstr "Xóa ảnh này từ Slider?"
+
+#. Plugin Name of the plugin
+#: soliloquy-lite.php
+msgid "Responsive WordPress Slider - Soliloquy Lite"
+msgstr "Responsive WordPress Slider - Soliloquy Lite"
+
+#: includes/admin/media-view.php:284 includes/admin/media-view.php:285
+#: includes/admin/media-view.php:424 includes/admin/media-view.php:425
+msgid "Save Metadata"
+msgstr "Lưu thông tin"
+
+#: includes/admin/settings.php:40 includes/admin/settings.php:41
+#: includes/admin/settings.php:79
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: includes/admin/posttype.php:202
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/metaboxes.php:945
+msgid "Slider Slug"
+msgstr "Slider Slug"
+
+#: includes/admin/metaboxes.php:936
+msgid "Slider Title"
+msgstr "Tên Slider"
+
+#: includes/admin/partials/_header.php:33 includes/global/posttype.php:64
+#: includes/global/posttype.php:74
+msgid "Soliloquy"
+msgstr "Soliloquy"
+
+#: includes/admin/posttype.php:540
+msgid "Soliloquy slider custom field deleted."
+msgstr "Đã xóa trường tùy biến slider Soliloquy."
+
+#: includes/admin/posttype.php:539
+msgid "Soliloquy slider custom field updated."
+msgstr "Đã cập nhật trường tùy biến slider Soliloquy."
+
+#: includes/admin/posttype.php:550
+msgid "Soliloquy slider draft updated."
+msgstr "Đã cập nhật slider nháp."
+
+#: includes/admin/posttype.php:545
+msgid "Soliloquy slider published."
+msgstr "Đã đăng slider Soliloquy."
+
+#: includes/admin/posttype.php:543
+msgid "Soliloquy slider restored to revision from %s."
+msgstr "Đã khôi phục slider Soliloquy từ %s."
+
+#: includes/admin/posttype.php:546
+msgid "Soliloquy slider saved."
+msgstr "Đã lưu slider Soliloquy."
+
+#. translators: %s: schedule posting date
+#: includes/admin/posttype.php:549
+msgid "Soliloquy slider scheduled for: <strong>%1$s</strong>."
+msgstr "Đã đặt lịch đăng slider Soliloquy: <strong>%1$s</strong>."
+
+#: includes/admin/posttype.php:547
+msgid "Soliloquy slider submitted."
+msgstr "Đã gửi slider Soliloquy."
+
+#: includes/admin/posttype.php:538 includes/admin/posttype.php:541
+msgid "Soliloquy slider updated."
+msgstr "Đã cập nhật slider Soliloquy."
+
+#: includes/admin/metaboxes.php:931
+msgid "The settings below adjust the miscellaneous settings for the slider display."
+msgstr "Bên dưới là các thiết lập khác cho hiển thị slider."
+
+#: includes/admin/media-view.php:166 includes/admin/posttype.php:201
+msgid "Title"
+msgstr "Tên"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: soliloquy-lite.php
+msgid "https://soliloquywp.com"
+msgstr "https://soliloquywp.com"
+
+#: includes/admin/metaboxes.php:217
+msgid "Remove"
+msgstr "Xóa"
+
+#: includes/admin/editor.php:84
+msgid "Add Slider"
+msgstr "Thêm slider"
+
+#: includes/admin/metaboxes.php:214
+msgid "Are you sure you want to remove this slide from the slider?"
+msgstr "Bạn muốn xóa ảnh này từ slider chứ?"
+
+#: includes/admin/media.php:130
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: includes/admin/editor.php:212
+msgid "Cancel Slider Insertion"
+msgstr "Hủy chèn slider"
+
+#: includes/admin/editor.php:158
+msgid "Choose Your Slider"
+msgstr "Chọn slider"
+
+#: includes/admin/editor.php:197
+msgid "Choosing Your Slider"
+msgstr "Chọn Slider"
+
+#: includes/admin/common.php:337
+msgid "Congratulations! You have upgraded your sliders successfully!"
+msgstr "Chúc mừng! Bạn đã nâng cấp slider thành công!"
+
+#: includes/admin/metaboxes.php:868
+msgid "Crop Images in Slider?"
+msgstr "Cắt ảnh Slider?"
+
+#: includes/admin/metaboxes.php:635
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/admin/media.php:114
+msgid "Drop images here"
+msgstr "Thả hình ảnh vào đây"
+
+#: includes/admin/metaboxes.php:876
+msgid "Enables or disables image cropping based on slider dimensions <strong>(recommended)</strong>."
+msgstr "Bật hoặc tắt tính năng cắt ảnh dựa trên kích thước slider <strong>(khuyên chọn)</strong>."
+
+#: includes/admin/metaboxes.php:203
+msgid "Enter HTML slide title here..."
+msgstr "Nhập tên slide HTML ở đây..."
+
+#: includes/admin/metaboxes.php:223
+msgid "Enter video slide title here..."
+msgstr "Nhập tên slide video ở đây..."
+
+#: includes/admin/metaboxes.php:229
+msgid "Enter your video URL here..."
+msgstr "Điền liên kết video ở đây..."
+
+#: includes/admin/metaboxes.php:201
+msgid "HTML Slide Code"
+msgstr "Mã Slide HTML"
+
+#: includes/admin/metaboxes.php:202
+msgid "HTML Slide Title"
+msgstr "Tên Slide HTML"
+
+#: includes/admin/editor.php:196
+msgid "Helpful Tips"
+msgstr "Mẹo hay"
+
+#: includes/admin/editor.php:215
+msgid "Insert Slider"
+msgstr "Chèn Slider"
+
+#: includes/admin/editor.php:199
+msgid "Inserting Your Slider"
+msgstr "Chèn Slider"
+
+#: includes/admin/metaboxes.php:208
+msgid "Inserting..."
+msgstr "Đang chèn..."
+
+#. Translators: %1$s - Max Upload Size, do not translate. %2$s - Max Upload
+#. Size, do not translate.
+#: includes/admin/media.php:136
+msgid "Maximum upload file size: %1$d%2$s."
+msgstr "Kích thước tệp tải lên tối đa: %1$d%2$s."
+
+#: includes/admin/metaboxes.php:588
+msgid "Misc"
+msgstr "Khác"
+
+#: includes/admin/metaboxes.php:219
+msgid "Saving..."
+msgstr "Đang lưu..."
+
+#: includes/admin/media.php:117
+msgid "Select Images"
+msgstr "Chọn ảnh"
+
+#: includes/admin/metaboxes.php:205
+msgid "Select Thumbnail"
+msgstr "Chọn ảnh"
+
+#: includes/admin/metaboxes.php:827
+msgid "Sets the amount of time between each slide transition <strong>(in milliseconds)</strong>."
+msgstr "Thiết lập thời gian chuyển tiếp giữa các slide <strong>(tính bằng mili giây)</strong>."
+
+#: includes/admin/metaboxes.php:863
+msgid "Sets the gutter between the slider and your content based on slider position."
+msgstr "Thiết lập khoảng cách giữa slider và nội dung."
+
+#: includes/admin/metaboxes.php:792
+msgid "Sets the theme for the slider display."
+msgstr "Chọn giao diện hiển thị slider."
+
+#: includes/admin/metaboxes.php:846
+msgid "Sets the transition speed when moving from one slide to the next <strong>(in milliseconds)</strong>."
+msgstr "Thiết lập tốc độ chuyển từ slide này qua slide khác <strong>(tính bằng mili giây)</strong>."
+
+#: includes/admin/metaboxes.php:816
+msgid "Sets the type of transition for the slider."
+msgstr "Thiết lập hiệu ứng chuyển tiếp cho slider."
+
+#: includes/admin/metaboxes.php:801
+msgid "Sets the width and height dimensions for the slider."
+msgstr "Thiết lập chiều rộng và cao cho slider."
+
+#: includes/admin/metaboxes.php:797
+msgid "Slider Dimensions"
+msgstr "Kích thước slider"
+
+#: includes/admin/metaboxes.php:859
+msgid "Slider Gutter"
+msgstr "Khoảng cách slider"
+
+#. translators: %s: slider id
+#: includes/admin/editor.php:181
+msgid "Slider ID #%s"
+msgstr "Slider ID #%s"
+
+#: includes/admin/metaboxes.php:782 includes/admin/posttype.php:340
+#: includes/admin/posttype.php:422
+msgid "Slider Theme"
+msgstr "Giao diện slider"
+
+#: includes/admin/metaboxes.php:806 includes/admin/posttype.php:364
+#: includes/admin/posttype.php:438
+msgid "Slider Transition"
+msgstr "Slider Transition"
+
+#: includes/admin/metaboxes.php:821
+msgid "Slider Transition Duration"
+msgstr "Slider Transition Duration"
+
+#: includes/admin/metaboxes.php:840
+msgid "Slider Transition Speed"
+msgstr "Slider Transition Speed"
+
+#. translators: %s: url
+#: includes/admin/common.php:317
+msgid "Soliloquy Lite is now rocking v2! <strong>You need to upgrade your legacy v1 sliders to v2.</strong> <a href=\"%s\">Click here to begin the upgrade process.</a>"
+msgstr "Soliloquy Lite đã ra mắt v2! <strong>Bạn cần nâng cấp v1 slider lên v2.</strong> <a href=\"%s\">Bấm vào đây để bắt đầu nâng cấp.</a>"
+
+#: includes/admin/metaboxes.php:606
+msgid "The GD or Imagick libraries are not installed on your server. Soliloquy requires at least one (preferably Imagick) in order to crop images and may not work properly without it. Please contact your webhost and ask them to compile GD or Imagick for your PHP install."
+msgstr "GD hoặc thư viện Imagick chưa được cài trên hosting. Soliloquy yêu cầu ít nhất (ưu tiên Imagick) để cắt ảnh và có thể không hoạt động mà không có nó. Hãy liên hệ hosting và nhờ họ cài đặt GD hoặc Imagick."
+
+#: includes/admin/metaboxes.php:777
+msgid "The settings below adjust the basic configuration options for the slider display."
+msgstr "Bên dưới là thiết lập cơ bản để hiển thị slider."
+
+#. Translators: Url Link in open tag dont translate.
+#: includes/admin/media.php:73
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr "Trình duyệt trên thiết bị hiện tại không thể tải tập tin. Có thể bạn cần sử dụng <a href=\"%s\">ứng dụng</a> thay thế."
+
+#: includes/admin/editor.php:198
+msgid "To choose your slider, simply click on one of the boxes to the left. The \"Insert Slider\" button will be activated once you have selected a slider."
+msgstr "Để chọn slider, bấm vào một trong các hộp bên trái. Nút \"Chèn slider\" sẽ kích hoạt khi bạn chọn slider."
+
+#: includes/admin/editor.php:200
+msgid "To insert your slider into the editor, click on the \"Insert Slider\" button below."
+msgstr "Để chèn slider, bấm vào nút \"Chèn slider\" bên dưới."
+
+#: includes/admin/media.php:127 includes/admin/media.php:129
+msgid "Upload"
+msgstr "Tải lên"
+
+#: includes/admin/metaboxes.php:221
+msgid "Video Slide Caption"
+msgstr "Video Slide Caption"
+
+#: includes/admin/metaboxes.php:222
+msgid "Video Slide Title"
+msgstr "Tên Slide Video"
+
+#: includes/admin/metaboxes.php:224
+msgid "Video Slide URL"
+msgstr "Liên kết Slide Video"
+
+#: includes/admin/metaboxes.php:206
+msgid "You must select a file to import before continuing."
+msgstr "Bạn phải chọn một tệp để nhập vào trước khi tiếp tục."
+
+#: includes/admin/metaboxes.php:824 includes/admin/metaboxes.php:843
+msgid "ms"
+msgstr "ms"
+
+#: includes/admin/metaboxes.php:800 includes/admin/metaboxes.php:862
+msgid "px"
+msgstr "px"
